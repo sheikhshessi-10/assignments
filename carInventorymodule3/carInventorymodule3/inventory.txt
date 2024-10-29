@@ -1,0 +1,199 @@
+1005
+2010 Honda Accord Ex-L
+36800
+10500
+
+1018
+2015 Jeep Cherokee Latitude
+26500
+20300
+
+1158
+2011 GMC Yukon Hybrid
+91700
+27600
+
+1198
+2008 Nissan Titan SE
+114000
+16000
+
+1245
+2004 Toyota Celica
+103600
+7400
+
+1353
+2007 Nissan Pathfinder SE
+130000
+7900
+
+1408
+1996 Ford Bronco XLT 4WD
+151000
+8900
+
+1489
+2012 Nissan Altima
+65800
+13900
+
+1965
+2013 Ford F-150 STX
+42600
+26100
+
+1983
+2010 Toyota 4Runner SR5 4WD
+68000
+23000
+
+2266
+2012 Ford Explorer XLT
+40300
+27800
+
+2277
+1014 Toyota Camry
+24500
+18000
+
+2388
+2011 Mazda RX-8
+38000
+18500
+
+2468
+2009 Kia Optima
+102300
+6900
+
+2510
+2006 Dodge Caravan
+157000
+3300
+
+2647
+1996 Chevrolet Astro Cargo Van
+226000
+3250
+
+2897
+2014 Hyundai Genesis
+20400
+28000
+
+2978
+2011 Fiat 500L
+17500
+11900
+
+3248
+2015 Jeep Wrangler
+6100
+29900
+
+3589
+2005 Chevrolet Silverado 1500
+185000
+10000
+
+3608
+2011 Nissan Frontier
+65000
+17500
+
+3907
+2012 Honda Civic
+78000
+10500
+
+4588
+2014 Dodge Avenger
+50000
+9900
+
+4968
+2015 Dodge Grand Caravan
+25000
+17500
+
+5148
+2015 Toyota Highlander
+18000
+34000
+
+5855
+1996 Nissan 300ZX
+68000
+13200
+
+6450
+2016 Honda Odyssey
+14500
+32700
+
+6877
+2003 GMC Safari
+220000
+4000
+
+6900
+2013 Ford Expedition
+87000
+22900
+
+7234
+2002 Mazda Millenia
+109000
+5900
+
+7580
+2001 Chevrolet Lumina
+154000
+3500
+
+7966
+2016 Toyota Tacoma
+4000
+21900
+
+8125
+2001 Chevrolet Corvette
+47000
+18800
+
+8435
+2007 Jeep Grand Cherokee
+121000
+9800
+
+8677
+2012 GMC Acadia SLE
+108900
+14900
+
+8958
+2016 Fiat 500X Trekking
+3690
+22990
+
+9105
+2009 Kia Sportage LX
+40500
+16900
+
+9238
+2014 Chevrolet Corvette Stringray
+2400
+56800
+
+9488
+2001 Nissan Frontier
+138000
+9400
+
+9899
+1994 Toyota Land Cruiser
+261000
+8800

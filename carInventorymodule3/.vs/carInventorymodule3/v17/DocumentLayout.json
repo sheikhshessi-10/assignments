@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\USM Assignments\\carInventorymodule3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA767D1-9845-43E0-A9BF-49E3326309BD}|carInventorymodule3\\carInventorymodule3.vcxproj|D:\\repos\\USM Assignments\\carInventorymodule3\\carInventorymodule3\\carInventorymodule3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAA767D1-9845-43E0-A9BF-49E3326309BD}|carInventorymodule3\\carInventorymodule3.vcxproj|solutionrelative:carInventorymodule3\\carInventorymodule3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carInventorymodule3.cpp",
+              "DocumentMoniker": "D:\\repos\\USM Assignments\\carInventorymodule3\\carInventorymodule3\\carInventorymodule3.cpp",
+              "RelativeDocumentMoniker": "carInventorymodule3\\carInventorymodule3.cpp",
+              "ToolTip": "D:\\repos\\USM Assignments\\carInventorymodule3\\carInventorymodule3\\carInventorymodule3.cpp",
+              "RelativeToolTip": "carInventorymodule3\\carInventorymodule3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T02:21:23.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
